@@ -1,5 +1,6 @@
 <?php
-
+	//this is test php
+	
 	$time1 = "2013/11/04";
 	$time2 = date("Y/m/d");
 	
