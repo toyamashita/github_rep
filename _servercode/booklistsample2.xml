@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actibook-document-list return-code="OK">
+	<document>
+		<name>actibookSample10</name>
+		<body>http://www.link-it.co.jp/mealsolution/actibookSample10/iPhone/</body>
+		<thumbnail>http://www.link-it.co.jp/mealsolution/actibookSample10/iPhone/cover.jpg</thumbnail>
+		<effectivedate>2015/4/30</effectivedate>
+	</document>
+	<document>
+		<name>actibookSample11</name>
+		<body>http://www.link-it.co.jp/mealsolution/actibookSample11/iPhone/</body>
+		<thumbnail>http://www.link-it.co.jp/mealsolution/actibookSample11/iPhone/cover.jpg</thumbnail>
+		<effectivedate>2015/4/30</effectivedate>
+	</document>
+</actibook-document-list>

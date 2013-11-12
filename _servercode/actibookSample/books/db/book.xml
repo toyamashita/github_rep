@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <FileVersion>2.0</FileVersion>
+  <AuthVersion>ActiBook SaaS [1.3]</AuthVersion>
+  <name>corgi.pdf</name>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <start>1</start>
+  <total>4</total>
+  <to_type>rich</to_type>
+  <to_open>left</to_open>
+  <Property CategoryName="PageFlip" Name="GrabRange" ValueType="Percent" Value="15"/>
+  <Property CategoryName="PageFlip" Name="GrabType" ValueType="Enum" Value="edge"/>
+  <noanalytics></noanalytics>
+  <w>487.0</w>
+  <h>344.429978888107</h>
+  <PageSizes>
+    <PageSize zoom="1" w="487.0" h="344.429978888107"/>
+    <PageSize zoom="1.2628" w="615.0" h="434.9577762139338"/>
+    <PageSize zoom="1.6735" w="815.0" h="576.4074595355384"/>
+    <PageSize zoom="2" w="974.0" h="688.859957776214"/>
+  </PageSizes>
+<pages>
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>1</ActiBookPageNumber>
+  <number>1</number>
+  <numbering>1</numbering>
+  <image>g_1</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+    <texts></texts>
+      <insides>
+      </insides>
+    
+    <outsides>
+      </outsides>
+    
+  
+  
+</page>
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>2</ActiBookPageNumber>
+  <number>2</number>
+  <numbering>2</numbering>
+  <image>g_2</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+    <texts></texts>
+      <insides>
+                </insides>
+    
+    <outsides>
+                              <link>
+      <name>&#22806;&#37096;URL&#12434;&#38283;&#12367;</name>
+      <text><![CDATA[http://182.236.107.41/pb_sss_mov/C901.mp4]]></text>
+      <href><![CDATA[http://182.236.107.41/pb_sss_mov/C901.mp4]]></href>
+      <params>_blank</params>
+      <rect_x>34</rect_x>
+      <rect_y>208</rect_y>
+      <rect_w>49</rect_w>
+      <rect_h>28</rect_h>
+      <frame_c>0000FF</frame_c>
+      <rollOver>
+        <frame_t>1</frame_t>
+        <frame_c>0000FF</frame_c>
+        <rect_a>0</rect_a>
+        <rect_c>000000</rect_c>
+      </rollOver>
+      <rollOut>
+        <frame_t>1</frame_t>
+        <frame_c>95CAFF</frame_c>
+        <rect_a>0</rect_a>
+        <rect_c>000000</rect_c>
+      </rollOut>
+    </link>
+            </outsides>
+    
+  
+  
+</page>
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>3</ActiBookPageNumber>
+  <number>3</number>
+  <numbering>3</numbering>
+  <image>g_3</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+    <texts></texts>
+      <insides>
+      </insides>
+    
+    <outsides>
+      </outsides>
+    
+  
+  
+</page>
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>4</ActiBookPageNumber>
+  <number>4</number>
+  <numbering>4</numbering>
+  <image>g_4</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+    <texts></texts>
+      <insides>
+      </insides>
+    
+    <outsides>
+      </outsides>
+    
+  
+  
+</page>
+</pages>
+</book>
